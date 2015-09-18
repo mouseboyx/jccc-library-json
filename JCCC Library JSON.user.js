@@ -6,7 +6,7 @@
 // @include     chrome://blank/?library
 // @include     https://library.jccc.edu/home/?newlibrary
 // @match       http://jccc.summon.serialssolutions.com/api/*
-// @version     0.2
+// @version     0.21
 // @grant       GM_xmlhttpRequest
 // @updateURL   https://github.com/mouseboyx/jccc-library-json/blob/master/JCCC%20Library%20JSON.user.js
 // ==/UserScript==
