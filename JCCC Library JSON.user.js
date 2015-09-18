@@ -8,6 +8,7 @@
 // @match       http://jccc.summon.serialssolutions.com/api/*
 // @version     0.2
 // @grant       GM_xmlhttpRequest
+// @updateURL   https://github.com/mouseboyx/jccc-library-json/blob/master/JCCC%20Library%20JSON.user.js
 // ==/UserScript==
 ///////////////////////////////////////////////////////////////
 // In order for this script to work in google chrome you must
